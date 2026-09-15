@@ -1,0 +1,513 @@
+region,channel,quarter,product_id,product_name,category,customer_segment,units_sold,discount_pct,avg_selling_price,revenue
+North,Physical Store,Q1,P001,Smartphone,Electronics,Young Professionals,169,16.1,25170.0,4253730.0
+North,Physical Store,Q1,P002,Laptop,Electronics,Value Seekers,114,6.5,56100.0,6395400.0
+North,Physical Store,Q1,P003,Wireless Earbuds,Electronics,Young Professionals,174,5.4,4730.0,823020.0
+North,Physical Store,Q1,P004,Smartwatch,Electronics,Young Professionals,124,5.4,11352.0,1407648.0
+North,Physical Store,Q1,P005,Air Fryer,Home & Kitchen,Young Professionals,167,13.2,6076.0,1014692.0
+North,Physical Store,Q1,P006,Vacuum Cleaner,Home & Kitchen,Value Seekers,132,17.1,8290.0,1094280.0
+North,Physical Store,Q1,P007,Cookware Set,Home & Kitchen,Families,178,15.5,5070.0,902460.0
+North,Physical Store,Q1,P008,Skincare Kit,Beauty & Personal Care,Families,92,19.4,2821.0,259532.0
+North,Physical Store,Q1,P009,Hair Dryer,Beauty & Personal Care,Families,73,6.5,2805.0,204765.0
+North,Physical Store,Q1,P010,Grooming Kit,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,128,5.7,3772.0,482816.0
+North,Physical Store,Q1,P011,Sneakers,Fashion & Lifestyle,Value Seekers,124,18.8,3654.0,453096.0
+North,Physical Store,Q1,P012,Backpack,Fashion & Lifestyle,Families,130,14.4,2140.0,278200.0
+North,Physical Store,Q1,P013,Casual Jacket,Fashion & Lifestyle,Young Professionals,130,6.0,4700.0,611000.0
+North,Physical Store,Q1,P014,Yoga Mat,Sports & Fitness,Young Professionals,138,6.2,1407.0,194166.0
+North,Physical Store,Q1,P015,Running Shoes,Sports & Fitness,Families,73,11.8,3528.0,257544.0
+North,Physical Store,Q1,P016,Fitness Band,Sports & Fitness,Families,79,8.1,3216.5,254103.5
+North,Physical Store,Q2,P001,Smartphone,Electronics,Young Professionals,221,14.7,25590.0,5655390.0
+North,Physical Store,Q2,P002,Laptop,Electronics,Fitness & Lifestyle Enthusiasts,186,7.5,55500.0,10323000.0
+North,Physical Store,Q2,P003,Wireless Earbuds,Electronics,Young Professionals,150,14.6,4270.0,640500.0
+North,Physical Store,Q2,P004,Smartwatch,Electronics,Value Seekers,193,16.5,10020.0,1933860.0
+North,Physical Store,Q2,P005,Air Fryer,Home & Kitchen,Fitness & Lifestyle Enthusiasts,116,17.1,5803.0,673148.0
+North,Physical Store,Q2,P006,Vacuum Cleaner,Home & Kitchen,Families,104,18.7,8130.0,845520.0
+North,Physical Store,Q2,P007,Cookware Set,Home & Kitchen,Fitness & Lifestyle Enthusiasts,110,10.9,5346.0,588060.0
+North,Physical Store,Q2,P008,Skincare Kit,Beauty & Personal Care,Families,84,8.7,3195.5,268422.0
+North,Physical Store,Q2,P009,Hair Dryer,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,160,18.5,2445.0,391200.0
+North,Physical Store,Q2,P010,Grooming Kit,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,107,20.0,3200.0,342400.0
+North,Physical Store,Q2,P011,Sneakers,Fashion & Lifestyle,Young Professionals,91,17.9,3694.5,336199.5
+North,Physical Store,Q2,P012,Backpack,Fashion & Lifestyle,Value Seekers,142,15.2,2120.0,301040.0
+North,Physical Store,Q2,P013,Casual Jacket,Fashion & Lifestyle,Families,120,19.9,4005.0,480600.0
+North,Physical Store,Q2,P014,Yoga Mat,Sports & Fitness,Value Seekers,137,5.2,1422.0,194814.0
+North,Physical Store,Q2,P015,Running Shoes,Sports & Fitness,Families,153,16.3,3348.0,512244.0
+North,Physical Store,Q2,P016,Fitness Band,Sports & Fitness,Value Seekers,77,7.4,3241.0,249557.0
+North,Physical Store,Q3,P001,Smartphone,Electronics,Young Professionals,233,9.0,27300.0,6360900.0
+North,Physical Store,Q3,P002,Laptop,Electronics,Families,196,18.1,49140.0,9631440.0
+North,Physical Store,Q3,P003,Wireless Earbuds,Electronics,Families,203,8.0,4600.0,933800.0
+North,Physical Store,Q3,P004,Smartwatch,Electronics,Value Seekers,208,19.3,9684.0,2014272.0
+North,Physical Store,Q3,P005,Air Fryer,Home & Kitchen,Families,158,5.3,6629.0,1047382.0
+North,Physical Store,Q3,P006,Vacuum Cleaner,Home & Kitchen,Value Seekers,118,8.6,9140.0,1078520.0
+North,Physical Store,Q3,P007,Cookware Set,Home & Kitchen,Young Professionals,99,17.2,4968.0,491832.0
+North,Physical Store,Q3,P008,Skincare Kit,Beauty & Personal Care,Young Professionals,94,19.2,2828.0,265832.0
+North,Physical Store,Q3,P009,Hair Dryer,Beauty & Personal Care,Young Professionals,107,14.1,2577.0,275739.0
+North,Physical Store,Q3,P010,Grooming Kit,Beauty & Personal Care,Families,148,15.3,3388.0,501424.0
+North,Physical Store,Q3,P011,Sneakers,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,144,14.7,3838.5,552744.0
+North,Physical Store,Q3,P012,Backpack,Fashion & Lifestyle,Value Seekers,144,8.7,2282.5,328680.0
+North,Physical Store,Q3,P013,Casual Jacket,Fashion & Lifestyle,Young Professionals,111,13.3,4335.0,481185.0
+North,Physical Store,Q3,P014,Yoga Mat,Sports & Fitness,Young Professionals,65,14.5,1282.5,83362.5
+North,Physical Store,Q3,P015,Running Shoes,Sports & Fitness,Value Seekers,85,17.9,3284.0,279140.0
+North,Physical Store,Q3,P016,Fitness Band,Sports & Fitness,Young Professionals,123,15.0,2975.0,365925.0
+North,Physical Store,Q4,P001,Smartphone,Electronics,Fitness & Lifestyle Enthusiasts,190,19.0,24300.0,4617000.0
+North,Physical Store,Q4,P002,Laptop,Electronics,Young Professionals,162,17.1,49740.0,8057880.0
+North,Physical Store,Q4,P003,Wireless Earbuds,Electronics,Fitness & Lifestyle Enthusiasts,117,11.5,4425.0,517725.0
+North,Physical Store,Q4,P004,Smartwatch,Electronics,Value Seekers,181,15.9,10092.0,1826652.0
+North,Physical Store,Q4,P005,Air Fryer,Home & Kitchen,Value Seekers,98,10.1,6293.0,616714.0
+North,Physical Store,Q4,P006,Vacuum Cleaner,Home & Kitchen,Young Professionals,120,13.0,8700.0,1044000.0
+North,Physical Store,Q4,P007,Cookware Set,Home & Kitchen,Value Seekers,144,11.9,5286.0,761184.0
+North,Physical Store,Q4,P008,Skincare Kit,Beauty & Personal Care,Value Seekers,149,17.8,2877.0,428673.0
+North,Physical Store,Q4,P009,Hair Dryer,Beauty & Personal Care,Value Seekers,92,13.1,2607.0,239844.0
+North,Physical Store,Q4,P010,Grooming Kit,Beauty & Personal Care,Young Professionals,102,17.7,3292.0,335784.0
+North,Physical Store,Q4,P011,Sneakers,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,144,8.2,4131.0,594864.0
+North,Physical Store,Q4,P012,Backpack,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,89,5.0,2375.0,211375.0
+North,Physical Store,Q4,P013,Casual Jacket,Fashion & Lifestyle,Families,134,16.8,4160.0,557440.0
+North,Physical Store,Q4,P014,Yoga Mat,Sports & Fitness,Fitness & Lifestyle Enthusiasts,136,16.0,1260.0,171360.0
+North,Physical Store,Q4,P015,Running Shoes,Sports & Fitness,Value Seekers,91,8.3,3668.0,333788.0
+North,Physical Store,Q4,P016,Fitness Band,Sports & Fitness,Families,158,5.9,3293.5,520373.0
+North,E-commerce,Q1,P001,Smartphone,Electronics,Young Professionals,99,12.2,26340.0,2607660.0
+North,E-commerce,Q1,P002,Laptop,Electronics,Young Professionals,119,6.2,56280.0,6697320.0
+North,E-commerce,Q1,P003,Wireless Earbuds,Electronics,Young Professionals,112,15.1,4245.0,475440.0
+North,E-commerce,Q1,P004,Smartwatch,Electronics,Young Professionals,152,18.4,9792.0,1488384.0
+North,E-commerce,Q1,P005,Air Fryer,Home & Kitchen,Fitness & Lifestyle Enthusiasts,164,14.3,5999.0,983836.0
+North,E-commerce,Q1,P006,Vacuum Cleaner,Home & Kitchen,Families,174,12.8,8720.0,1517280.0
+North,E-commerce,Q1,P007,Cookware Set,Home & Kitchen,Families,115,9.7,5418.0,623070.0
+North,E-commerce,Q1,P008,Skincare Kit,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,113,14.7,2985.5,337361.5
+North,E-commerce,Q1,P009,Hair Dryer,Beauty & Personal Care,Value Seekers,123,19.0,2430.0,298890.0
+North,E-commerce,Q1,P010,Grooming Kit,Beauty & Personal Care,Value Seekers,133,13.4,3464.0,460712.0
+North,E-commerce,Q1,P011,Sneakers,Fashion & Lifestyle,Young Professionals,89,12.6,3933.0,350037.0
+North,E-commerce,Q1,P012,Backpack,Fashion & Lifestyle,Families,132,18.2,2045.0,269940.0
+North,E-commerce,Q1,P013,Casual Jacket,Fashion & Lifestyle,Families,107,17.5,4125.0,441375.0
+North,E-commerce,Q1,P014,Yoga Mat,Sports & Fitness,Value Seekers,154,17.1,1243.5,191499.0
+North,E-commerce,Q1,P015,Running Shoes,Sports & Fitness,Value Seekers,156,9.5,3620.0,564720.0
+North,E-commerce,Q1,P016,Fitness Band,Sports & Fitness,Young Professionals,82,18.3,2859.5,234479.0
+North,E-commerce,Q2,P001,Smartphone,Electronics,Families,144,8.2,27540.0,3965760.0
+North,E-commerce,Q2,P002,Laptop,Electronics,Fitness & Lifestyle Enthusiasts,145,17.8,49320.0,7151400.0
+North,E-commerce,Q2,P003,Wireless Earbuds,Electronics,Value Seekers,160,17.7,4115.0,658400.0
+North,E-commerce,Q2,P004,Smartwatch,Electronics,Value Seekers,209,9.2,10896.0,2277264.0
+North,E-commerce,Q2,P005,Air Fryer,Home & Kitchen,Families,141,14.6,5978.0,842898.0
+North,E-commerce,Q2,P006,Vacuum Cleaner,Home & Kitchen,Fitness & Lifestyle Enthusiasts,115,13.3,8670.0,997050.0
+North,E-commerce,Q2,P007,Cookware Set,Home & Kitchen,Young Professionals,150,6.1,5634.0,845100.0
+North,E-commerce,Q2,P008,Skincare Kit,Beauty & Personal Care,Young Professionals,134,10.5,3132.5,419755.0
+North,E-commerce,Q2,P009,Hair Dryer,Beauty & Personal Care,Value Seekers,124,9.6,2712.0,336288.0
+North,E-commerce,Q2,P010,Grooming Kit,Beauty & Personal Care,Value Seekers,117,8.7,3652.0,427284.0
+North,E-commerce,Q2,P011,Sneakers,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,138,18.3,3676.5,507357.0
+North,E-commerce,Q2,P012,Backpack,Fashion & Lifestyle,Young Professionals,174,18.9,2027.5,352785.0
+North,E-commerce,Q2,P013,Casual Jacket,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,114,17.2,4140.0,471960.0
+North,E-commerce,Q2,P014,Yoga Mat,Sports & Fitness,Fitness & Lifestyle Enthusiasts,73,18.9,1216.5,88804.5
+North,E-commerce,Q2,P015,Running Shoes,Sports & Fitness,Families,166,17.2,3312.0,549792.0
+North,E-commerce,Q2,P016,Fitness Band,Sports & Fitness,Value Seekers,99,6.6,3269.0,323631.0
+North,E-commerce,Q3,P001,Smartphone,Electronics,Fitness & Lifestyle Enthusiasts,183,17.2,24840.0,4545720.0
+North,E-commerce,Q3,P002,Laptop,Electronics,Young Professionals,165,16.9,49860.0,8226900.0
+North,E-commerce,Q3,P003,Wireless Earbuds,Electronics,Families,135,7.9,4605.0,621675.0
+North,E-commerce,Q3,P004,Smartwatch,Electronics,Families,171,19.5,9660.0,1651860.0
+North,E-commerce,Q3,P005,Air Fryer,Home & Kitchen,Families,147,11.0,6230.0,915810.0
+North,E-commerce,Q3,P006,Vacuum Cleaner,Home & Kitchen,Young Professionals,88,19.6,8040.0,707520.0
+North,E-commerce,Q3,P007,Cookware Set,Home & Kitchen,Value Seekers,194,9.0,5460.0,1059240.0
+North,E-commerce,Q3,P008,Skincare Kit,Beauty & Personal Care,Families,160,15.9,2943.5,470960.0
+North,E-commerce,Q3,P009,Hair Dryer,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,143,12.7,2619.0,374517.0
+North,E-commerce,Q3,P010,Grooming Kit,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,149,5.7,3772.0,562028.0
+North,E-commerce,Q3,P011,Sneakers,Fashion & Lifestyle,Young Professionals,88,17.1,3730.5,328284.0
+North,E-commerce,Q3,P012,Backpack,Fashion & Lifestyle,Families,136,19.2,2020.0,274720.0
+North,E-commerce,Q3,P013,Casual Jacket,Fashion & Lifestyle,Families,168,17.7,4115.0,691320.0
+North,E-commerce,Q3,P014,Yoga Mat,Sports & Fitness,Fitness & Lifestyle Enthusiasts,136,11.1,1333.5,181356.0
+North,E-commerce,Q3,P015,Running Shoes,Sports & Fitness,Fitness & Lifestyle Enthusiasts,159,6.9,3724.0,592116.0
+North,E-commerce,Q3,P016,Fitness Band,Sports & Fitness,Young Professionals,176,15.2,2968.0,522368.0
+North,E-commerce,Q4,P001,Smartphone,Electronics,Value Seekers,243,11.1,26670.0,6480810.0
+North,E-commerce,Q4,P002,Laptop,Electronics,Families,171,11.4,53160.0,9090360.0
+North,E-commerce,Q4,P003,Wireless Earbuds,Electronics,Fitness & Lifestyle Enthusiasts,209,15.1,4245.0,887205.0
+North,E-commerce,Q4,P004,Smartwatch,Electronics,Families,247,6.3,11244.0,2777268.0
+North,E-commerce,Q4,P005,Air Fryer,Home & Kitchen,Families,122,16.3,5859.0,714798.0
+North,E-commerce,Q4,P006,Vacuum Cleaner,Home & Kitchen,Value Seekers,145,7.2,9280.0,1345600.0
+North,E-commerce,Q4,P007,Cookware Set,Home & Kitchen,Value Seekers,154,14.2,5148.0,792792.0
+North,E-commerce,Q4,P008,Skincare Kit,Beauty & Personal Care,Young Professionals,154,14.4,2996.0,461384.0
+North,E-commerce,Q4,P009,Hair Dryer,Beauty & Personal Care,Young Professionals,202,12.4,2628.0,530856.0
+North,E-commerce,Q4,P010,Grooming Kit,Beauty & Personal Care,Value Seekers,115,5.1,3796.0,436540.0
+North,E-commerce,Q4,P011,Sneakers,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,212,7.6,4158.0,881496.0
+North,E-commerce,Q4,P012,Backpack,Fashion & Lifestyle,Value Seekers,105,18.8,2030.0,213150.0
+North,E-commerce,Q4,P013,Casual Jacket,Fashion & Lifestyle,Families,154,12.0,4400.0,677600.0
+North,E-commerce,Q4,P014,Yoga Mat,Sports & Fitness,Fitness & Lifestyle Enthusiasts,204,14.2,1287.0,262548.0
+North,E-commerce,Q4,P015,Running Shoes,Sports & Fitness,Fitness & Lifestyle Enthusiasts,160,7.4,3704.0,592640.0
+North,E-commerce,Q4,P016,Fitness Band,Sports & Fitness,Families,140,8.7,3195.5,447370.0
+South,Physical Store,Q1,P001,Smartphone,Electronics,Young Professionals,236,12.3,26310.0,6209160.0
+South,Physical Store,Q1,P002,Laptop,Electronics,Young Professionals,142,15.7,50580.0,7182360.0
+South,Physical Store,Q1,P003,Wireless Earbuds,Electronics,Value Seekers,138,18.4,4080.0,563040.0
+South,Physical Store,Q1,P004,Smartwatch,Electronics,Young Professionals,113,10.7,10716.0,1210908.0
+South,Physical Store,Q1,P005,Air Fryer,Home & Kitchen,Families,167,11.2,6216.0,1038072.0
+South,Physical Store,Q1,P006,Vacuum Cleaner,Home & Kitchen,Fitness & Lifestyle Enthusiasts,155,5.9,9410.0,1458550.0
+South,Physical Store,Q1,P007,Cookware Set,Home & Kitchen,Value Seekers,146,13.8,5172.0,755112.0
+South,Physical Store,Q1,P008,Skincare Kit,Beauty & Personal Care,Families,169,12.2,3073.0,519337.0
+South,Physical Store,Q1,P009,Hair Dryer,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,117,17.8,2466.0,288522.0
+South,Physical Store,Q1,P010,Grooming Kit,Beauty & Personal Care,Young Professionals,146,13.2,3472.0,506912.0
+South,Physical Store,Q1,P011,Sneakers,Fashion & Lifestyle,Value Seekers,133,11.5,3982.5,529672.5
+South,Physical Store,Q1,P012,Backpack,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,124,15.2,2120.0,262880.0
+South,Physical Store,Q1,P013,Casual Jacket,Fashion & Lifestyle,Young Professionals,159,12.0,4400.0,699600.0
+South,Physical Store,Q1,P014,Yoga Mat,Sports & Fitness,Value Seekers,142,18.6,1221.0,173382.0
+South,Physical Store,Q1,P015,Running Shoes,Sports & Fitness,Fitness & Lifestyle Enthusiasts,82,7.0,3720.0,305040.0
+South,Physical Store,Q1,P016,Fitness Band,Sports & Fitness,Young Professionals,83,10.7,3125.5,259416.5
+South,Physical Store,Q2,P001,Smartphone,Electronics,Fitness & Lifestyle Enthusiasts,176,16.4,25080.0,4414080.0
+South,Physical Store,Q2,P002,Laptop,Electronics,Families,159,17.5,49500.0,7870500.0
+South,Physical Store,Q2,P003,Wireless Earbuds,Electronics,Value Seekers,118,16.2,4190.0,494420.0
+South,Physical Store,Q2,P004,Smartwatch,Electronics,Value Seekers,155,6.0,11280.0,1748400.0
+South,Physical Store,Q2,P005,Air Fryer,Home & Kitchen,Value Seekers,175,8.7,6391.0,1118425.0
+South,Physical Store,Q2,P006,Vacuum Cleaner,Home & Kitchen,Value Seekers,163,6.9,9310.0,1517530.0
+South,Physical Store,Q2,P007,Cookware Set,Home & Kitchen,Families,182,12.0,5280.0,960960.0
+South,Physical Store,Q2,P008,Skincare Kit,Beauty & Personal Care,Value Seekers,172,14.1,3006.5,517118.0
+South,Physical Store,Q2,P009,Hair Dryer,Beauty & Personal Care,Value Seekers,189,19.5,2415.0,456435.0
+South,Physical Store,Q2,P010,Grooming Kit,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,138,9.7,3612.0,498456.0
+South,Physical Store,Q2,P011,Sneakers,Fashion & Lifestyle,Young Professionals,148,8.0,4140.0,612720.0
+South,Physical Store,Q2,P012,Backpack,Fashion & Lifestyle,Value Seekers,101,9.5,2262.5,228512.5
+South,Physical Store,Q2,P013,Casual Jacket,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,168,10.2,4490.0,754320.0
+South,Physical Store,Q2,P014,Yoga Mat,Sports & Fitness,Families,149,12.6,1311.0,195339.0
+South,Physical Store,Q2,P015,Running Shoes,Sports & Fitness,Value Seekers,81,17.3,3308.0,267948.0
+South,Physical Store,Q2,P016,Fitness Band,Sports & Fitness,Fitness & Lifestyle Enthusiasts,138,14.5,2992.5,412965.0
+South,Physical Store,Q3,P001,Smartphone,Electronics,Families,219,7.6,27720.0,6070680.0
+South,Physical Store,Q3,P002,Laptop,Electronics,Fitness & Lifestyle Enthusiasts,232,13.1,52140.0,12096480.0
+South,Physical Store,Q3,P003,Wireless Earbuds,Electronics,Families,190,16.0,4200.0,798000.0
+South,Physical Store,Q3,P004,Smartwatch,Electronics,Value Seekers,180,17.5,9900.0,1782000.0
+South,Physical Store,Q3,P005,Air Fryer,Home & Kitchen,Fitness & Lifestyle Enthusiasts,143,8.7,6391.0,913913.0
+South,Physical Store,Q3,P006,Vacuum Cleaner,Home & Kitchen,Value Seekers,179,10.7,8930.0,1598470.0
+South,Physical Store,Q3,P007,Cookware Set,Home & Kitchen,Young Professionals,177,7.7,5538.0,980226.0
+South,Physical Store,Q3,P008,Skincare Kit,Beauty & Personal Care,Families,138,10.1,3146.5,434217.0
+South,Physical Store,Q3,P009,Hair Dryer,Beauty & Personal Care,Value Seekers,142,19.2,2424.0,344208.0
+South,Physical Store,Q3,P010,Grooming Kit,Beauty & Personal Care,Young Professionals,119,12.3,3508.0,417452.0
+South,Physical Store,Q3,P011,Sneakers,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,183,15.7,3793.5,694210.5
+South,Physical Store,Q3,P012,Backpack,Fashion & Lifestyle,Young Professionals,83,8.3,2292.5,190277.5
+South,Physical Store,Q3,P013,Casual Jacket,Fashion & Lifestyle,Families,135,10.5,4475.0,604125.0
+South,Physical Store,Q3,P014,Yoga Mat,Sports & Fitness,Families,145,13.3,1300.5,188572.5
+South,Physical Store,Q3,P015,Running Shoes,Sports & Fitness,Young Professionals,164,9.6,3616.0,593024.0
+South,Physical Store,Q3,P016,Fitness Band,Sports & Fitness,Young Professionals,97,9.7,3160.5,306568.5
+South,Physical Store,Q4,P001,Smartphone,Electronics,Families,194,12.3,26310.0,5104140.0
+South,Physical Store,Q4,P002,Laptop,Electronics,Families,194,9.4,54360.0,10545840.0
+South,Physical Store,Q4,P003,Wireless Earbuds,Electronics,Young Professionals,193,15.6,4220.0,814460.0
+South,Physical Store,Q4,P004,Smartwatch,Electronics,Families,206,5.8,11304.0,2328624.0
+South,Physical Store,Q4,P005,Air Fryer,Home & Kitchen,Fitness & Lifestyle Enthusiasts,233,14.6,5978.0,1392874.0
+South,Physical Store,Q4,P006,Vacuum Cleaner,Home & Kitchen,Fitness & Lifestyle Enthusiasts,126,13.6,8640.0,1088640.0
+South,Physical Store,Q4,P007,Cookware Set,Home & Kitchen,Value Seekers,176,7.8,5532.0,973632.0
+South,Physical Store,Q4,P008,Skincare Kit,Beauty & Personal Care,Value Seekers,139,12.2,3073.0,427147.0
+South,Physical Store,Q4,P009,Hair Dryer,Beauty & Personal Care,Value Seekers,149,13.7,2589.0,385761.0
+South,Physical Store,Q4,P010,Grooming Kit,Beauty & Personal Care,Families,105,13.4,3464.0,363720.0
+South,Physical Store,Q4,P011,Sneakers,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,119,6.8,4194.0,499086.0
+South,Physical Store,Q4,P012,Backpack,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,192,14.3,2142.5,411360.0
+South,Physical Store,Q4,P013,Casual Jacket,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,178,9.5,4525.0,805450.0
+South,Physical Store,Q4,P014,Yoga Mat,Sports & Fitness,Value Seekers,130,5.9,1411.5,183495.0
+South,Physical Store,Q4,P015,Running Shoes,Sports & Fitness,Value Seekers,179,8.2,3672.0,657288.0
+South,Physical Store,Q4,P016,Fitness Band,Sports & Fitness,Young Professionals,102,13.3,3034.5,309519.0
+South,E-commerce,Q1,P001,Smartphone,Electronics,Fitness & Lifestyle Enthusiasts,108,15.3,25410.0,2744280.0
+South,E-commerce,Q1,P002,Laptop,Electronics,Families,146,9.3,54420.0,7945320.0
+South,E-commerce,Q1,P003,Wireless Earbuds,Electronics,Young Professionals,250,6.1,4695.0,1173750.0
+South,E-commerce,Q1,P004,Smartwatch,Electronics,Young Professionals,165,14.4,10272.0,1694880.0
+South,E-commerce,Q1,P005,Air Fryer,Home & Kitchen,Young Professionals,142,8.4,6412.0,910504.0
+South,E-commerce,Q1,P006,Vacuum Cleaner,Home & Kitchen,Young Professionals,140,6.1,9390.0,1314600.0
+South,E-commerce,Q1,P007,Cookware Set,Home & Kitchen,Families,139,17.4,4956.0,688884.0
+South,E-commerce,Q1,P008,Skincare Kit,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,130,15.3,2964.5,385385.0
+South,E-commerce,Q1,P009,Hair Dryer,Beauty & Personal Care,Value Seekers,118,12.4,2628.0,310104.0
+South,E-commerce,Q1,P010,Grooming Kit,Beauty & Personal Care,Families,147,11.5,3540.0,520380.0
+South,E-commerce,Q1,P011,Sneakers,Fashion & Lifestyle,Value Seekers,163,6.4,4212.0,686556.0
+South,E-commerce,Q1,P012,Backpack,Fashion & Lifestyle,Value Seekers,200,9.0,2275.0,455000.0
+South,E-commerce,Q1,P013,Casual Jacket,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,203,12.1,4395.0,892185.0
+South,E-commerce,Q1,P014,Yoga Mat,Sports & Fitness,Fitness & Lifestyle Enthusiasts,105,13.8,1293.0,135765.0
+South,E-commerce,Q1,P015,Running Shoes,Sports & Fitness,Families,88,11.1,3556.0,312928.0
+South,E-commerce,Q1,P016,Fitness Band,Sports & Fitness,Fitness & Lifestyle Enthusiasts,148,7.4,3241.0,479668.0
+South,E-commerce,Q2,P001,Smartphone,Electronics,Fitness & Lifestyle Enthusiasts,244,14.9,25530.0,6229320.0
+South,E-commerce,Q2,P002,Laptop,Electronics,Families,260,11.8,52920.0,13759200.0
+South,E-commerce,Q2,P003,Wireless Earbuds,Electronics,Fitness & Lifestyle Enthusiasts,157,19.6,4020.0,631140.0
+South,E-commerce,Q2,P004,Smartwatch,Electronics,Fitness & Lifestyle Enthusiasts,224,5.0,11400.0,2553600.0
+South,E-commerce,Q2,P005,Air Fryer,Home & Kitchen,Fitness & Lifestyle Enthusiasts,145,12.8,6104.0,885080.0
+South,E-commerce,Q2,P006,Vacuum Cleaner,Home & Kitchen,Families,191,5.8,9420.0,1799220.0
+South,E-commerce,Q2,P007,Cookware Set,Home & Kitchen,Fitness & Lifestyle Enthusiasts,168,9.3,5442.0,914256.0
+South,E-commerce,Q2,P008,Skincare Kit,Beauty & Personal Care,Young Professionals,94,14.5,2992.5,281295.0
+South,E-commerce,Q2,P009,Hair Dryer,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,172,13.3,2601.0,447372.0
+South,E-commerce,Q2,P010,Grooming Kit,Beauty & Personal Care,Value Seekers,94,17.6,3296.0,309824.0
+South,E-commerce,Q2,P011,Sneakers,Fashion & Lifestyle,Young Professionals,174,14.7,3838.5,667899.0
+South,E-commerce,Q2,P012,Backpack,Fashion & Lifestyle,Families,179,9.4,2265.0,405435.0
+South,E-commerce,Q2,P013,Casual Jacket,Fashion & Lifestyle,Young Professionals,163,19.7,4015.0,654445.0
+South,E-commerce,Q2,P014,Yoga Mat,Sports & Fitness,Young Professionals,143,10.8,1338.0,191334.0
+South,E-commerce,Q2,P015,Running Shoes,Sports & Fitness,Fitness & Lifestyle Enthusiasts,86,16.9,3324.0,285864.0
+South,E-commerce,Q2,P016,Fitness Band,Sports & Fitness,Value Seekers,137,12.6,3059.0,419083.0
+South,E-commerce,Q3,P001,Smartphone,Electronics,Fitness & Lifestyle Enthusiasts,185,17.6,24720.0,4573200.0
+South,E-commerce,Q3,P002,Laptop,Electronics,Families,149,12.3,52620.0,7840380.0
+South,E-commerce,Q3,P003,Wireless Earbuds,Electronics,Families,241,10.7,4465.0,1076065.0
+South,E-commerce,Q3,P004,Smartwatch,Electronics,Fitness & Lifestyle Enthusiasts,174,8.6,10968.0,1908432.0
+South,E-commerce,Q3,P005,Air Fryer,Home & Kitchen,Families,148,11.2,6216.0,919968.0
+South,E-commerce,Q3,P006,Vacuum Cleaner,Home & Kitchen,Fitness & Lifestyle Enthusiasts,221,18.7,8130.0,1796730.0
+South,E-commerce,Q3,P007,Cookware Set,Home & Kitchen,Young Professionals,180,16.9,4986.0,897480.0
+South,E-commerce,Q3,P008,Skincare Kit,Beauty & Personal Care,Families,179,6.9,3258.5,583271.5
+South,E-commerce,Q3,P009,Hair Dryer,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,113,11.6,2652.0,299676.0
+South,E-commerce,Q3,P010,Grooming Kit,Beauty & Personal Care,Young Professionals,97,11.1,3556.0,344932.0
+South,E-commerce,Q3,P011,Sneakers,Fashion & Lifestyle,Families,107,19.5,3622.5,387607.5
+South,E-commerce,Q3,P012,Backpack,Fashion & Lifestyle,Families,199,14.7,2132.5,424367.5
+South,E-commerce,Q3,P013,Casual Jacket,Fashion & Lifestyle,Families,215,10.7,4465.0,959975.0
+South,E-commerce,Q3,P014,Yoga Mat,Sports & Fitness,Value Seekers,180,16.4,1254.0,225720.0
+South,E-commerce,Q3,P015,Running Shoes,Sports & Fitness,Families,157,14.5,3420.0,536940.0
+South,E-commerce,Q3,P016,Fitness Band,Sports & Fitness,Value Seekers,124,11.5,3097.5,384090.0
+South,E-commerce,Q4,P001,Smartphone,Electronics,Fitness & Lifestyle Enthusiasts,394,18.1,24570.0,9680580.0
+South,E-commerce,Q4,P002,Laptop,Electronics,Value Seekers,228,18.6,48840.0,11135520.0
+South,E-commerce,Q4,P003,Wireless Earbuds,Electronics,Families,278,9.4,4530.0,1259340.0
+South,E-commerce,Q4,P004,Smartwatch,Electronics,Young Professionals,272,13.0,10440.0,2839680.0
+South,E-commerce,Q4,P005,Air Fryer,Home & Kitchen,Fitness & Lifestyle Enthusiasts,131,14.1,6013.0,787703.0
+South,E-commerce,Q4,P006,Vacuum Cleaner,Home & Kitchen,Young Professionals,229,12.5,8750.0,2003750.0
+South,E-commerce,Q4,P007,Cookware Set,Home & Kitchen,Families,150,8.8,5472.0,820800.0
+South,E-commerce,Q4,P008,Skincare Kit,Beauty & Personal Care,Families,186,17.1,2901.5,539679.0
+South,E-commerce,Q4,P009,Hair Dryer,Beauty & Personal Care,Families,210,6.1,2817.0,591570.0
+South,E-commerce,Q4,P010,Grooming Kit,Beauty & Personal Care,Families,186,19.4,3224.0,599664.0
+South,E-commerce,Q4,P011,Sneakers,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,195,8.0,4140.0,807300.0
+South,E-commerce,Q4,P012,Backpack,Fashion & Lifestyle,Families,172,10.7,2232.5,383990.0
+South,E-commerce,Q4,P013,Casual Jacket,Fashion & Lifestyle,Value Seekers,194,15.5,4225.0,819650.0
+South,E-commerce,Q4,P014,Yoga Mat,Sports & Fitness,Value Seekers,190,5.1,1423.5,270465.0
+South,E-commerce,Q4,P015,Running Shoes,Sports & Fitness,Families,195,17.5,3300.0,643500.0
+South,E-commerce,Q4,P016,Fitness Band,Sports & Fitness,Families,224,14.1,3006.5,673456.0
+East,Physical Store,Q1,P001,Smartphone,Electronics,Young Professionals,114,14.3,25710.0,2930940.0
+East,Physical Store,Q1,P002,Laptop,Electronics,Value Seekers,151,14.4,51360.0,7755360.0
+East,Physical Store,Q1,P003,Wireless Earbuds,Electronics,Families,129,5.5,4725.0,609525.0
+East,Physical Store,Q1,P004,Smartwatch,Electronics,Families,164,18.6,9768.0,1601952.0
+East,Physical Store,Q1,P005,Air Fryer,Home & Kitchen,Families,147,8.0,6440.0,946680.0
+East,Physical Store,Q1,P006,Vacuum Cleaner,Home & Kitchen,Young Professionals,126,9.1,9090.0,1145340.0
+East,Physical Store,Q1,P007,Cookware Set,Home & Kitchen,Families,104,19.2,4848.0,504192.0
+East,Physical Store,Q1,P008,Skincare Kit,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,145,17.1,2901.5,420717.5
+East,Physical Store,Q1,P009,Hair Dryer,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,64,19.5,2415.0,154560.0
+East,Physical Store,Q1,P010,Grooming Kit,Beauty & Personal Care,Value Seekers,113,16.9,3324.0,375612.0
+East,Physical Store,Q1,P011,Sneakers,Fashion & Lifestyle,Families,92,11.8,3969.0,365148.0
+East,Physical Store,Q1,P012,Backpack,Fashion & Lifestyle,Families,122,14.6,2135.0,260470.0
+East,Physical Store,Q1,P013,Casual Jacket,Fashion & Lifestyle,Families,78,12.1,4395.0,342810.0
+East,Physical Store,Q1,P014,Yoga Mat,Sports & Fitness,Fitness & Lifestyle Enthusiasts,108,5.9,1411.5,152442.0
+East,Physical Store,Q1,P015,Running Shoes,Sports & Fitness,Young Professionals,118,11.1,3556.0,419608.0
+East,Physical Store,Q1,P016,Fitness Band,Sports & Fitness,Fitness & Lifestyle Enthusiasts,67,9.6,3164.0,211988.0
+East,Physical Store,Q2,P001,Smartphone,Electronics,Young Professionals,93,18.3,24510.0,2279430.0
+East,Physical Store,Q2,P002,Laptop,Electronics,Fitness & Lifestyle Enthusiasts,138,15.1,50940.0,7029720.0
+East,Physical Store,Q2,P003,Wireless Earbuds,Electronics,Fitness & Lifestyle Enthusiasts,176,7.3,4635.0,815760.0
+East,Physical Store,Q2,P004,Smartwatch,Electronics,Fitness & Lifestyle Enthusiasts,162,12.3,10524.0,1704888.0
+East,Physical Store,Q2,P005,Air Fryer,Home & Kitchen,Fitness & Lifestyle Enthusiasts,94,10.6,6258.0,588252.0
+East,Physical Store,Q2,P006,Vacuum Cleaner,Home & Kitchen,Value Seekers,133,17.8,8220.0,1093260.0
+East,Physical Store,Q2,P007,Cookware Set,Home & Kitchen,Families,146,18.5,4890.0,713940.0
+East,Physical Store,Q2,P008,Skincare Kit,Beauty & Personal Care,Value Seekers,69,7.8,3227.0,222663.0
+East,Physical Store,Q2,P009,Hair Dryer,Beauty & Personal Care,Value Seekers,103,8.2,2754.0,283662.0
+East,Physical Store,Q2,P010,Grooming Kit,Beauty & Personal Care,Young Professionals,74,8.7,3652.0,270248.0
+East,Physical Store,Q2,P011,Sneakers,Fashion & Lifestyle,Young Professionals,156,6.0,4230.0,659880.0
+East,Physical Store,Q2,P012,Backpack,Fashion & Lifestyle,Families,125,18.0,2050.0,256250.0
+East,Physical Store,Q2,P013,Casual Jacket,Fashion & Lifestyle,Value Seekers,142,18.5,4075.0,578650.0
+East,Physical Store,Q2,P014,Yoga Mat,Sports & Fitness,Young Professionals,94,7.2,1392.0,130848.0
+East,Physical Store,Q2,P015,Running Shoes,Sports & Fitness,Value Seekers,108,7.6,3696.0,399168.0
+East,Physical Store,Q2,P016,Fitness Band,Sports & Fitness,Young Professionals,66,16.8,2912.0,192192.0
+East,Physical Store,Q3,P001,Smartphone,Electronics,Value Seekers,170,7.6,27720.0,4712400.0
+East,Physical Store,Q3,P002,Laptop,Electronics,Value Seekers,114,12.9,52260.0,5957640.0
+East,Physical Store,Q3,P003,Wireless Earbuds,Electronics,Value Seekers,157,10.4,4480.0,703360.0
+East,Physical Store,Q3,P004,Smartwatch,Electronics,Value Seekers,155,19.2,9696.0,1502880.0
+East,Physical Store,Q3,P005,Air Fryer,Home & Kitchen,Families,173,18.0,5740.0,993020.0
+East,Physical Store,Q3,P006,Vacuum Cleaner,Home & Kitchen,Fitness & Lifestyle Enthusiasts,134,5.5,9450.0,1266300.0
+East,Physical Store,Q3,P007,Cookware Set,Home & Kitchen,Fitness & Lifestyle Enthusiasts,122,6.6,5604.0,683688.0
+East,Physical Store,Q3,P008,Skincare Kit,Beauty & Personal Care,Young Professionals,82,9.8,3157.0,258874.0
+East,Physical Store,Q3,P009,Hair Dryer,Beauty & Personal Care,Families,69,14.4,2568.0,177192.0
+East,Physical Store,Q3,P010,Grooming Kit,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,120,13.0,3480.0,417600.0
+East,Physical Store,Q3,P011,Sneakers,Fashion & Lifestyle,Value Seekers,132,6.5,4207.5,555390.0
+East,Physical Store,Q3,P012,Backpack,Fashion & Lifestyle,Young Professionals,151,16.5,2087.5,315212.5
+East,Physical Store,Q3,P013,Casual Jacket,Fashion & Lifestyle,Families,120,8.4,4580.0,549600.0
+East,Physical Store,Q3,P014,Yoga Mat,Sports & Fitness,Families,109,15.9,1261.5,137503.5
+East,Physical Store,Q3,P015,Running Shoes,Sports & Fitness,Young Professionals,104,8.8,3648.0,379392.0
+East,Physical Store,Q3,P016,Fitness Band,Sports & Fitness,Value Seekers,145,6.0,3290.0,477050.0
+East,Physical Store,Q4,P001,Smartphone,Electronics,Families,111,16.2,25140.0,2790540.0
+East,Physical Store,Q4,P002,Laptop,Electronics,Families,121,13.8,51720.0,6258120.0
+East,Physical Store,Q4,P003,Wireless Earbuds,Electronics,Fitness & Lifestyle Enthusiasts,189,10.3,4485.0,847665.0
+East,Physical Store,Q4,P004,Smartwatch,Electronics,Families,194,9.3,10884.0,2111496.0
+East,Physical Store,Q4,P005,Air Fryer,Home & Kitchen,Young Professionals,119,12.6,6118.0,728042.0
+East,Physical Store,Q4,P006,Vacuum Cleaner,Home & Kitchen,Families,169,17.7,8230.0,1390870.0
+East,Physical Store,Q4,P007,Cookware Set,Home & Kitchen,Young Professionals,152,16.4,5016.0,762432.0
+East,Physical Store,Q4,P008,Skincare Kit,Beauty & Personal Care,Value Seekers,133,19.6,2814.0,374262.0
+East,Physical Store,Q4,P009,Hair Dryer,Beauty & Personal Care,Families,159,17.4,2478.0,394002.0
+East,Physical Store,Q4,P010,Grooming Kit,Beauty & Personal Care,Families,72,15.5,3380.0,243360.0
+East,Physical Store,Q4,P011,Sneakers,Fashion & Lifestyle,Young Professionals,84,7.7,4153.5,348894.0
+East,Physical Store,Q4,P012,Backpack,Fashion & Lifestyle,Value Seekers,111,6.0,2350.0,260850.0
+East,Physical Store,Q4,P013,Casual Jacket,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,68,8.2,4590.0,312120.0
+East,Physical Store,Q4,P014,Yoga Mat,Sports & Fitness,Families,118,10.6,1341.0,158238.0
+East,Physical Store,Q4,P015,Running Shoes,Sports & Fitness,Value Seekers,171,13.9,3444.0,588924.0
+East,Physical Store,Q4,P016,Fitness Band,Sports & Fitness,Value Seekers,81,14.3,2999.5,242959.5
+East,E-commerce,Q1,P001,Smartphone,Electronics,Fitness & Lifestyle Enthusiasts,127,11.4,26580.0,3375660.0
+East,E-commerce,Q1,P002,Laptop,Electronics,Value Seekers,143,16.3,50220.0,7181460.0
+East,E-commerce,Q1,P003,Wireless Earbuds,Electronics,Fitness & Lifestyle Enthusiasts,138,9.2,4540.0,626520.0
+East,E-commerce,Q1,P004,Smartwatch,Electronics,Fitness & Lifestyle Enthusiasts,171,5.7,11316.0,1935036.0
+East,E-commerce,Q1,P005,Air Fryer,Home & Kitchen,Young Professionals,134,8.1,6433.0,862022.0
+East,E-commerce,Q1,P006,Vacuum Cleaner,Home & Kitchen,Families,155,8.8,9120.0,1413600.0
+East,E-commerce,Q1,P007,Cookware Set,Home & Kitchen,Young Professionals,81,16.2,5028.0,407268.0
+East,E-commerce,Q1,P008,Skincare Kit,Beauty & Personal Care,Families,79,15.6,2954.0,233366.0
+East,E-commerce,Q1,P009,Hair Dryer,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,74,16.1,2517.0,186258.0
+East,E-commerce,Q1,P010,Grooming Kit,Beauty & Personal Care,Families,69,6.2,3752.0,258888.0
+East,E-commerce,Q1,P011,Sneakers,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,135,11.1,4000.5,540067.5
+East,E-commerce,Q1,P012,Backpack,Fashion & Lifestyle,Families,96,5.3,2367.5,227280.0
+East,E-commerce,Q1,P013,Casual Jacket,Fashion & Lifestyle,Families,96,14.3,4285.0,411360.0
+East,E-commerce,Q1,P014,Yoga Mat,Sports & Fitness,Fitness & Lifestyle Enthusiasts,72,6.6,1401.0,100872.0
+East,E-commerce,Q1,P015,Running Shoes,Sports & Fitness,Families,121,6.2,3752.0,453992.0
+East,E-commerce,Q1,P016,Fitness Band,Sports & Fitness,Young Professionals,135,10.0,3150.0,425250.0
+East,E-commerce,Q2,P001,Smartphone,Electronics,Young Professionals,106,6.7,27990.0,2966940.0
+East,E-commerce,Q2,P002,Laptop,Electronics,Young Professionals,206,15.9,50460.0,10394760.0
+East,E-commerce,Q2,P003,Wireless Earbuds,Electronics,Young Professionals,120,8.8,4560.0,547200.0
+East,E-commerce,Q2,P004,Smartwatch,Electronics,Value Seekers,174,16.4,10032.0,1745568.0
+East,E-commerce,Q2,P005,Air Fryer,Home & Kitchen,Fitness & Lifestyle Enthusiasts,110,14.4,5992.0,659120.0
+East,E-commerce,Q2,P006,Vacuum Cleaner,Home & Kitchen,Families,176,13.7,8630.0,1518880.0
+East,E-commerce,Q2,P007,Cookware Set,Home & Kitchen,Fitness & Lifestyle Enthusiasts,153,11.6,5304.0,811512.0
+East,E-commerce,Q2,P008,Skincare Kit,Beauty & Personal Care,Value Seekers,124,16.9,2908.5,360654.0
+East,E-commerce,Q2,P009,Hair Dryer,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,112,9.7,2709.0,303408.0
+East,E-commerce,Q2,P010,Grooming Kit,Beauty & Personal Care,Value Seekers,68,17.5,3300.0,224400.0
+East,E-commerce,Q2,P011,Sneakers,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,163,17.8,3699.0,602937.0
+East,E-commerce,Q2,P012,Backpack,Fashion & Lifestyle,Value Seekers,133,19.3,2017.5,268327.5
+East,E-commerce,Q2,P013,Casual Jacket,Fashion & Lifestyle,Young Professionals,139,13.6,4320.0,600480.0
+East,E-commerce,Q2,P014,Yoga Mat,Sports & Fitness,Value Seekers,104,12.5,1312.5,136500.0
+East,E-commerce,Q2,P015,Running Shoes,Sports & Fitness,Families,106,18.5,3260.0,345560.0
+East,E-commerce,Q2,P016,Fitness Band,Sports & Fitness,Value Seekers,132,14.7,2985.5,394086.0
+East,E-commerce,Q3,P001,Smartphone,Electronics,Young Professionals,144,19.9,24030.0,3460320.0
+East,E-commerce,Q3,P002,Laptop,Electronics,Fitness & Lifestyle Enthusiasts,153,9.2,54480.0,8335440.0
+East,E-commerce,Q3,P003,Wireless Earbuds,Electronics,Families,216,14.0,4300.0,928800.0
+East,E-commerce,Q3,P004,Smartwatch,Electronics,Fitness & Lifestyle Enthusiasts,106,13.4,10392.0,1101552.0
+East,E-commerce,Q3,P005,Air Fryer,Home & Kitchen,Young Professionals,115,17.8,5754.0,661710.0
+East,E-commerce,Q3,P006,Vacuum Cleaner,Home & Kitchen,Families,116,15.0,8500.0,986000.0
+East,E-commerce,Q3,P007,Cookware Set,Home & Kitchen,Fitness & Lifestyle Enthusiasts,135,15.5,5070.0,684450.0
+East,E-commerce,Q3,P008,Skincare Kit,Beauty & Personal Care,Families,92,19.1,2831.5,260498.0
+East,E-commerce,Q3,P009,Hair Dryer,Beauty & Personal Care,Young Professionals,138,16.9,2493.0,344034.0
+East,E-commerce,Q3,P010,Grooming Kit,Beauty & Personal Care,Value Seekers,161,19.2,3232.0,520352.0
+East,E-commerce,Q3,P011,Sneakers,Fashion & Lifestyle,Value Seekers,165,12.6,3933.0,648945.0
+East,E-commerce,Q3,P012,Backpack,Fashion & Lifestyle,Families,120,19.3,2017.5,242100.0
+East,E-commerce,Q3,P013,Casual Jacket,Fashion & Lifestyle,Young Professionals,175,8.4,4580.0,801500.0
+East,E-commerce,Q3,P014,Yoga Mat,Sports & Fitness,Value Seekers,80,17.7,1234.5,98760.0
+East,E-commerce,Q3,P015,Running Shoes,Sports & Fitness,Value Seekers,134,17.5,3300.0,442200.0
+East,E-commerce,Q3,P016,Fitness Band,Sports & Fitness,Young Professionals,140,16.5,2922.5,409150.0
+East,E-commerce,Q4,P001,Smartphone,Electronics,Young Professionals,208,7.4,27780.0,5778240.0
+East,E-commerce,Q4,P002,Laptop,Electronics,Young Professionals,232,11.2,53280.0,12360960.0
+East,E-commerce,Q4,P003,Wireless Earbuds,Electronics,Fitness & Lifestyle Enthusiasts,190,16.3,4185.0,795150.0
+East,E-commerce,Q4,P004,Smartwatch,Electronics,Fitness & Lifestyle Enthusiasts,150,9.6,10848.0,1627200.0
+East,E-commerce,Q4,P005,Air Fryer,Home & Kitchen,Fitness & Lifestyle Enthusiasts,115,19.2,5656.0,650440.0
+East,E-commerce,Q4,P006,Vacuum Cleaner,Home & Kitchen,Fitness & Lifestyle Enthusiasts,167,16.7,8330.0,1391110.0
+East,E-commerce,Q4,P007,Cookware Set,Home & Kitchen,Young Professionals,121,17.0,4980.0,602580.0
+East,E-commerce,Q4,P008,Skincare Kit,Beauty & Personal Care,Families,104,12.2,3073.0,319592.0
+East,E-commerce,Q4,P009,Hair Dryer,Beauty & Personal Care,Value Seekers,167,15.7,2529.0,422343.0
+East,E-commerce,Q4,P010,Grooming Kit,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,109,7.4,3704.0,403736.0
+East,E-commerce,Q4,P011,Sneakers,Fashion & Lifestyle,Young Professionals,105,11.6,3978.0,417690.0
+East,E-commerce,Q4,P012,Backpack,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,115,19.0,2025.0,232875.0
+East,E-commerce,Q4,P013,Casual Jacket,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,66,10.6,4470.0,295020.0
+East,E-commerce,Q4,P014,Yoga Mat,Sports & Fitness,Value Seekers,85,5.4,1419.0,120615.0
+East,E-commerce,Q4,P015,Running Shoes,Sports & Fitness,Young Professionals,170,16.9,3324.0,565080.0
+East,E-commerce,Q4,P016,Fitness Band,Sports & Fitness,Young Professionals,78,17.4,2891.0,225498.0
+West,Physical Store,Q1,P001,Smartphone,Electronics,Value Seekers,221,11.7,26490.0,5854290.0
+West,Physical Store,Q1,P002,Laptop,Electronics,Young Professionals,97,8.2,55080.0,5342760.0
+West,Physical Store,Q1,P003,Wireless Earbuds,Electronics,Fitness & Lifestyle Enthusiasts,195,14.1,4295.0,837525.0
+West,Physical Store,Q1,P004,Smartwatch,Electronics,Value Seekers,119,8.6,10968.0,1305192.0
+West,Physical Store,Q1,P005,Air Fryer,Home & Kitchen,Fitness & Lifestyle Enthusiasts,81,14.6,5978.0,484218.0
+West,Physical Store,Q1,P006,Vacuum Cleaner,Home & Kitchen,Value Seekers,81,18.6,8140.0,659340.0
+West,Physical Store,Q1,P007,Cookware Set,Home & Kitchen,Young Professionals,160,8.6,5484.0,877440.0
+West,Physical Store,Q1,P008,Skincare Kit,Beauty & Personal Care,Young Professionals,104,14.2,3003.0,312312.0
+West,Physical Store,Q1,P009,Hair Dryer,Beauty & Personal Care,Value Seekers,135,15.0,2550.0,344250.0
+West,Physical Store,Q1,P010,Grooming Kit,Beauty & Personal Care,Value Seekers,144,6.0,3760.0,541440.0
+West,Physical Store,Q1,P011,Sneakers,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,131,5.7,4243.5,555898.5
+West,Physical Store,Q1,P012,Backpack,Fashion & Lifestyle,Value Seekers,114,5.2,2370.0,270180.0
+West,Physical Store,Q1,P013,Casual Jacket,Fashion & Lifestyle,Value Seekers,111,14.9,4255.0,472305.0
+West,Physical Store,Q1,P014,Yoga Mat,Sports & Fitness,Young Professionals,153,16.4,1254.0,191862.0
+West,Physical Store,Q1,P015,Running Shoes,Sports & Fitness,Young Professionals,70,10.1,3596.0,251720.0
+West,Physical Store,Q1,P016,Fitness Band,Sports & Fitness,Fitness & Lifestyle Enthusiasts,157,19.7,2810.5,441248.5
+West,Physical Store,Q2,P001,Smartphone,Electronics,Fitness & Lifestyle Enthusiasts,189,7.0,27900.0,5273100.0
+West,Physical Store,Q2,P002,Laptop,Electronics,Young Professionals,101,5.7,56580.0,5714580.0
+West,Physical Store,Q2,P003,Wireless Earbuds,Electronics,Fitness & Lifestyle Enthusiasts,103,9.7,4515.0,465045.0
+West,Physical Store,Q2,P004,Smartwatch,Electronics,Young Professionals,187,5.5,11340.0,2120580.0
+West,Physical Store,Q2,P005,Air Fryer,Home & Kitchen,Families,118,16.7,5831.0,688058.0
+West,Physical Store,Q2,P006,Vacuum Cleaner,Home & Kitchen,Fitness & Lifestyle Enthusiasts,111,10.5,8950.0,993450.0
+West,Physical Store,Q2,P007,Cookware Set,Home & Kitchen,Families,182,19.3,4842.0,881244.0
+West,Physical Store,Q2,P008,Skincare Kit,Beauty & Personal Care,Families,97,12.5,3062.5,297062.5
+West,Physical Store,Q2,P009,Hair Dryer,Beauty & Personal Care,Young Professionals,89,6.2,2814.0,250446.0
+West,Physical Store,Q2,P010,Grooming Kit,Beauty & Personal Care,Families,135,6.5,3740.0,504900.0
+West,Physical Store,Q2,P011,Sneakers,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,157,11.7,3973.5,623839.5
+West,Physical Store,Q2,P012,Backpack,Fashion & Lifestyle,Value Seekers,105,10.3,2242.5,235462.5
+West,Physical Store,Q2,P013,Casual Jacket,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,185,10.3,4485.0,829725.0
+West,Physical Store,Q2,P014,Yoga Mat,Sports & Fitness,Value Seekers,106,16.9,1246.5,132129.0
+West,Physical Store,Q2,P015,Running Shoes,Sports & Fitness,Young Professionals,82,11.1,3556.0,291592.0
+West,Physical Store,Q2,P016,Fitness Band,Sports & Fitness,Fitness & Lifestyle Enthusiasts,69,14.1,3006.5,207448.5
+West,Physical Store,Q3,P001,Smartphone,Electronics,Families,103,8.5,27450.0,2827350.0
+West,Physical Store,Q3,P002,Laptop,Electronics,Young Professionals,163,13.5,51900.0,8459700.0
+West,Physical Store,Q3,P003,Wireless Earbuds,Electronics,Fitness & Lifestyle Enthusiasts,217,10.6,4470.0,969990.0
+West,Physical Store,Q3,P004,Smartwatch,Electronics,Families,214,7.1,11148.0,2385672.0
+West,Physical Store,Q3,P005,Air Fryer,Home & Kitchen,Value Seekers,138,9.2,6356.0,877128.0
+West,Physical Store,Q3,P006,Vacuum Cleaner,Home & Kitchen,Fitness & Lifestyle Enthusiasts,96,12.5,8750.0,840000.0
+West,Physical Store,Q3,P007,Cookware Set,Home & Kitchen,Fitness & Lifestyle Enthusiasts,154,16.6,5004.0,770616.0
+West,Physical Store,Q3,P008,Skincare Kit,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,117,9.3,3174.5,371416.5
+West,Physical Store,Q3,P009,Hair Dryer,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,96,17.8,2466.0,236736.0
+West,Physical Store,Q3,P010,Grooming Kit,Beauty & Personal Care,Value Seekers,109,11.7,3532.0,384988.0
+West,Physical Store,Q3,P011,Sneakers,Fashion & Lifestyle,Families,191,19.8,3609.0,689319.0
+West,Physical Store,Q3,P012,Backpack,Fashion & Lifestyle,Families,163,13.1,2172.5,354117.5
+West,Physical Store,Q3,P013,Casual Jacket,Fashion & Lifestyle,Young Professionals,109,18.9,4055.0,441995.0
+West,Physical Store,Q3,P014,Yoga Mat,Sports & Fitness,Young Professionals,118,6.8,1398.0,164964.0
+West,Physical Store,Q3,P015,Running Shoes,Sports & Fitness,Families,86,12.4,3504.0,301344.0
+West,Physical Store,Q3,P016,Fitness Band,Sports & Fitness,Young Professionals,143,12.0,3080.0,440440.0
+West,Physical Store,Q4,P001,Smartphone,Electronics,Fitness & Lifestyle Enthusiasts,247,6.0,28200.0,6965400.0
+West,Physical Store,Q4,P002,Laptop,Electronics,Fitness & Lifestyle Enthusiasts,259,12.9,52260.0,13535340.0
+West,Physical Store,Q4,P003,Wireless Earbuds,Electronics,Value Seekers,203,19.6,4020.0,816060.0
+West,Physical Store,Q4,P004,Smartwatch,Electronics,Young Professionals,197,12.8,10464.0,2061408.0
+West,Physical Store,Q4,P005,Air Fryer,Home & Kitchen,Young Professionals,218,13.8,6034.0,1315412.0
+West,Physical Store,Q4,P006,Vacuum Cleaner,Home & Kitchen,Value Seekers,163,18.0,8200.0,1336600.0
+West,Physical Store,Q4,P007,Cookware Set,Home & Kitchen,Families,164,7.5,5550.0,910200.0
+West,Physical Store,Q4,P008,Skincare Kit,Beauty & Personal Care,Families,175,19.2,2828.0,494900.0
+West,Physical Store,Q4,P009,Hair Dryer,Beauty & Personal Care,Families,93,14.5,2565.0,238545.0
+West,Physical Store,Q4,P010,Grooming Kit,Beauty & Personal Care,Value Seekers,107,14.2,3432.0,367224.0
+West,Physical Store,Q4,P011,Sneakers,Fashion & Lifestyle,Young Professionals,170,13.9,3874.5,658665.0
+West,Physical Store,Q4,P012,Backpack,Fashion & Lifestyle,Families,120,15.8,2105.0,252600.0
+West,Physical Store,Q4,P013,Casual Jacket,Fashion & Lifestyle,Value Seekers,158,18.0,4100.0,647800.0
+West,Physical Store,Q4,P014,Yoga Mat,Sports & Fitness,Families,95,16.6,1251.0,118845.0
+West,Physical Store,Q4,P015,Running Shoes,Sports & Fitness,Value Seekers,158,13.6,3456.0,546048.0
+West,Physical Store,Q4,P016,Fitness Band,Sports & Fitness,Families,158,13.2,3038.0,480004.0
+West,E-commerce,Q1,P001,Smartphone,Electronics,Fitness & Lifestyle Enthusiasts,176,17.1,24870.0,4377120.0
+West,E-commerce,Q1,P002,Laptop,Electronics,Young Professionals,154,15.3,50820.0,7826280.0
+West,E-commerce,Q1,P003,Wireless Earbuds,Electronics,Families,176,12.0,4400.0,774400.0
+West,E-commerce,Q1,P004,Smartwatch,Electronics,Families,192,17.9,9852.0,1891584.0
+West,E-commerce,Q1,P005,Air Fryer,Home & Kitchen,Fitness & Lifestyle Enthusiasts,208,10.2,6286.0,1307488.0
+West,E-commerce,Q1,P006,Vacuum Cleaner,Home & Kitchen,Value Seekers,111,12.7,8730.0,969030.0
+West,E-commerce,Q1,P007,Cookware Set,Home & Kitchen,Fitness & Lifestyle Enthusiasts,125,6.8,5592.0,699000.0
+West,E-commerce,Q1,P008,Skincare Kit,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,102,5.8,3297.0,336294.0
+West,E-commerce,Q1,P009,Hair Dryer,Beauty & Personal Care,Young Professionals,153,19.4,2418.0,369954.0
+West,E-commerce,Q1,P010,Grooming Kit,Beauty & Personal Care,Young Professionals,130,15.8,3368.0,437840.0
+West,E-commerce,Q1,P011,Sneakers,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,172,19.9,3604.5,619974.0
+West,E-commerce,Q1,P012,Backpack,Fashion & Lifestyle,Value Seekers,160,12.5,2187.5,350000.0
+West,E-commerce,Q1,P013,Casual Jacket,Fashion & Lifestyle,Young Professionals,136,19.5,4025.0,547400.0
+West,E-commerce,Q1,P014,Yoga Mat,Sports & Fitness,Fitness & Lifestyle Enthusiasts,139,5.8,1413.0,196407.0
+West,E-commerce,Q1,P015,Running Shoes,Sports & Fitness,Fitness & Lifestyle Enthusiasts,157,14.8,3408.0,535056.0
+West,E-commerce,Q1,P016,Fitness Band,Sports & Fitness,Fitness & Lifestyle Enthusiasts,109,17.7,2880.5,313974.5
+West,E-commerce,Q2,P001,Smartphone,Electronics,Fitness & Lifestyle Enthusiasts,145,15.9,25230.0,3658350.0
+West,E-commerce,Q2,P002,Laptop,Electronics,Young Professionals,159,5.8,56520.0,8986680.0
+West,E-commerce,Q2,P003,Wireless Earbuds,Electronics,Fitness & Lifestyle Enthusiasts,176,6.1,4695.0,826320.0
+West,E-commerce,Q2,P004,Smartwatch,Electronics,Value Seekers,248,17.4,9912.0,2458176.0
+West,E-commerce,Q2,P005,Air Fryer,Home & Kitchen,Families,121,10.9,6237.0,754677.0
+West,E-commerce,Q2,P006,Vacuum Cleaner,Home & Kitchen,Young Professionals,190,16.3,8370.0,1590300.0
+West,E-commerce,Q2,P007,Cookware Set,Home & Kitchen,Value Seekers,182,12.5,5250.0,955500.0
+West,E-commerce,Q2,P008,Skincare Kit,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,81,10.0,3150.0,255150.0
+West,E-commerce,Q2,P009,Hair Dryer,Beauty & Personal Care,Young Professionals,150,14.1,2577.0,386550.0
+West,E-commerce,Q2,P010,Grooming Kit,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,137,9.8,3608.0,494296.0
+West,E-commerce,Q2,P011,Sneakers,Fashion & Lifestyle,Families,182,9.5,4072.5,741195.0
+West,E-commerce,Q2,P012,Backpack,Fashion & Lifestyle,Families,168,13.0,2175.0,365400.0
+West,E-commerce,Q2,P013,Casual Jacket,Fashion & Lifestyle,Value Seekers,163,10.5,4475.0,729425.0
+West,E-commerce,Q2,P014,Yoga Mat,Sports & Fitness,Value Seekers,133,17.0,1245.0,165585.0
+West,E-commerce,Q2,P015,Running Shoes,Sports & Fitness,Young Professionals,152,19.5,3220.0,489440.0
+West,E-commerce,Q2,P016,Fitness Band,Sports & Fitness,Fitness & Lifestyle Enthusiasts,154,12.2,3073.0,473242.0
+West,E-commerce,Q3,P001,Smartphone,Electronics,Value Seekers,152,8.6,27420.0,4167840.0
+West,E-commerce,Q3,P002,Laptop,Electronics,Young Professionals,137,9.7,54180.0,7422660.0
+West,E-commerce,Q3,P003,Wireless Earbuds,Electronics,Fitness & Lifestyle Enthusiasts,199,11.2,4440.0,883560.0
+West,E-commerce,Q3,P004,Smartwatch,Electronics,Young Professionals,265,15.6,10128.0,2683920.0
+West,E-commerce,Q3,P005,Air Fryer,Home & Kitchen,Fitness & Lifestyle Enthusiasts,177,14.9,5957.0,1054389.0
+West,E-commerce,Q3,P006,Vacuum Cleaner,Home & Kitchen,Families,159,11.9,8810.0,1400790.0
+West,E-commerce,Q3,P007,Cookware Set,Home & Kitchen,Families,175,16.6,5004.0,875700.0
+West,E-commerce,Q3,P008,Skincare Kit,Beauty & Personal Care,Families,172,19.4,2821.0,485212.0
+West,E-commerce,Q3,P009,Hair Dryer,Beauty & Personal Care,Families,158,19.1,2427.0,383466.0
+West,E-commerce,Q3,P010,Grooming Kit,Beauty & Personal Care,Fitness & Lifestyle Enthusiasts,186,8.1,3676.0,683736.0
+West,E-commerce,Q3,P011,Sneakers,Fashion & Lifestyle,Families,138,13.4,3897.0,537786.0
+West,E-commerce,Q3,P012,Backpack,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,124,15.1,2122.5,263190.0
+West,E-commerce,Q3,P013,Casual Jacket,Fashion & Lifestyle,Young Professionals,159,19.3,4035.0,641565.0
+West,E-commerce,Q3,P014,Yoga Mat,Sports & Fitness,Value Seekers,110,19.3,1210.5,133155.0
+West,E-commerce,Q3,P015,Running Shoes,Sports & Fitness,Fitness & Lifestyle Enthusiasts,139,14.8,3408.0,473712.0
+West,E-commerce,Q3,P016,Fitness Band,Sports & Fitness,Families,104,13.1,3041.5,316316.0
+West,E-commerce,Q4,P001,Smartphone,Electronics,Young Professionals,143,16.1,25170.0,3599310.0
+West,E-commerce,Q4,P002,Laptop,Electronics,Young Professionals,161,18.6,48840.0,7863240.0
+West,E-commerce,Q4,P003,Wireless Earbuds,Electronics,Families,243,6.5,4675.0,1136025.0
+West,E-commerce,Q4,P004,Smartwatch,Electronics,Young Professionals,271,15.2,10176.0,2757696.0
+West,E-commerce,Q4,P005,Air Fryer,Home & Kitchen,Young Professionals,116,19.7,5621.0,652036.0
+West,E-commerce,Q4,P006,Vacuum Cleaner,Home & Kitchen,Fitness & Lifestyle Enthusiasts,181,18.2,8180.0,1480580.0
+West,E-commerce,Q4,P007,Cookware Set,Home & Kitchen,Families,193,16.3,5022.0,969246.0
+West,E-commerce,Q4,P008,Skincare Kit,Beauty & Personal Care,Value Seekers,138,5.9,3293.5,454503.0
+West,E-commerce,Q4,P009,Hair Dryer,Beauty & Personal Care,Value Seekers,198,13.0,2610.0,516780.0
+West,E-commerce,Q4,P010,Grooming Kit,Beauty & Personal Care,Value Seekers,120,17.6,3296.0,395520.0
+West,E-commerce,Q4,P011,Sneakers,Fashion & Lifestyle,Families,173,7.8,4149.0,717777.0
+West,E-commerce,Q4,P012,Backpack,Fashion & Lifestyle,Value Seekers,96,13.5,2162.5,207600.0
+West,E-commerce,Q4,P013,Casual Jacket,Fashion & Lifestyle,Fitness & Lifestyle Enthusiasts,147,19.8,4010.0,589470.0
+West,E-commerce,Q4,P014,Yoga Mat,Sports & Fitness,Young Professionals,117,12.0,1320.0,154440.0
+West,E-commerce,Q4,P015,Running Shoes,Sports & Fitness,Families,103,16.0,3360.0,346080.0
+West,E-commerce,Q4,P016,Fitness Band,Sports & Fitness,Families,181,16.0,2940.0,532140.0

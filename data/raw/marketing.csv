@@ -1,0 +1,161 @@
+region,channel,quarter,category,campaign_spend,impressions,clicks,conversion_rate_pct,revenue_attributed
+North,Physical Store,Q1,Electronics,100905.0,783572,21307,2.62,268110.7
+North,Physical Store,Q1,Home & Kitchen,86822.0,561437,29389,3.15,266743.12
+North,Physical Store,Q1,Beauty & Personal Care,126544.0,744068,43869,1.85,502454.75
+North,Physical Store,Q1,Fashion & Lifestyle,84934.0,1059614,55790,4.71,184113.64
+North,Physical Store,Q1,Sports & Fitness,78758.0,1103656,59443,4.29,241347.11
+North,Physical Store,Q2,Electronics,72768.0,684654,20171,2.61,306667.3
+North,Physical Store,Q2,Home & Kitchen,97026.0,1458377,63676,3.96,296418.94
+North,Physical Store,Q2,Beauty & Personal Care,124403.0,1090984,28020,4.82,561068.79
+North,Physical Store,Q2,Fashion & Lifestyle,114517.0,1068458,34577,3.22,260042.01
+North,Physical Store,Q2,Sports & Fitness,80490.0,1130889,32515,3.34,161145.04
+North,Physical Store,Q3,Electronics,130495.0,711250,37168,2.69,330462.88
+North,Physical Store,Q3,Home & Kitchen,92413.0,562448,11741,3.55,439116.31
+North,Physical Store,Q3,Beauty & Personal Care,64538.0,1387599,56963,2.78,143119.13
+North,Physical Store,Q3,Fashion & Lifestyle,142345.0,1487678,69155,3.55,428413.36
+North,Physical Store,Q3,Sports & Fitness,92284.0,643079,37963,4.06,305515.89
+North,Physical Store,Q4,Electronics,133789.0,1010866,46466,2.11,656399.43
+North,Physical Store,Q4,Home & Kitchen,140906.0,1432813,81890,4.25,376178.39
+North,Physical Store,Q4,Beauty & Personal Care,127194.0,1354017,36577,2.57,517106.61
+North,Physical Store,Q4,Fashion & Lifestyle,66691.0,686340,33735,4.82,323190.89
+North,Physical Store,Q4,Sports & Fitness,101327.0,1392083,83206,4.88,212497.74
+North,E-commerce,Q1,Electronics,128956.0,833674,47387,4.89,343369.3
+North,E-commerce,Q1,Home & Kitchen,124127.0,609167,35007,1.99,525805.69
+North,E-commerce,Q1,Beauty & Personal Care,81194.0,863656,51210,2.09,378036.08
+North,E-commerce,Q1,Fashion & Lifestyle,61629.0,1361574,65843,3.74,287188.71
+North,E-commerce,Q1,Sports & Fitness,108540.0,511949,15669,2.37,239155.34
+North,E-commerce,Q2,Electronics,83640.0,1325250,32231,1.5,264119.34
+North,E-commerce,Q2,Home & Kitchen,146021.0,940038,55240,4.6,508042.98
+North,E-commerce,Q2,Beauty & Personal Care,99638.0,868292,36330,1.85,342602.05
+North,E-commerce,Q2,Fashion & Lifestyle,125766.0,1182591,59519,2.29,421801.84
+North,E-commerce,Q2,Sports & Fitness,54379.0,809234,16834,2.41,125842.53
+North,E-commerce,Q3,Electronics,94801.0,678368,37661,2.06,210932.91
+North,E-commerce,Q3,Home & Kitchen,62203.0,854366,37388,3.65,214489.03
+North,E-commerce,Q3,Beauty & Personal Care,54062.0,952275,54944,2.08,252429.52
+North,E-commerce,Q3,Fashion & Lifestyle,70591.0,556157,13375,2.22,181415.54
+North,E-commerce,Q3,Sports & Fitness,141382.0,1081028,52842,4.05,395274.99
+North,E-commerce,Q4,Electronics,86899.0,811847,23951,1.67,322856.67
+North,E-commerce,Q4,Home & Kitchen,114349.0,661050,14662,1.51,258758.65
+North,E-commerce,Q4,Beauty & Personal Care,136772.0,1155455,50849,2.2,284103.77
+North,E-commerce,Q4,Fashion & Lifestyle,72391.0,1169191,37031,1.79,328025.86
+North,E-commerce,Q4,Sports & Fitness,90416.0,1323002,47494,3.21,360137.79
+South,Physical Store,Q1,Electronics,61945.0,1173045,48992,2.15,288445.53
+South,Physical Store,Q1,Home & Kitchen,98418.0,695646,26316,2.42,334146.22
+South,Physical Store,Q1,Beauty & Personal Care,79654.0,1377740,42355,1.72,339063.61
+South,Physical Store,Q1,Fashion & Lifestyle,137486.0,601400,14089,2.7,498296.97
+South,Physical Store,Q1,Sports & Fitness,149150.0,1118372,32545,1.71,471510.62
+South,Physical Store,Q2,Electronics,118495.0,938967,55047,3.9,569852.44
+South,Physical Store,Q2,Home & Kitchen,125066.0,1424481,41916,2.55,398261.81
+South,Physical Store,Q2,Beauty & Personal Care,143625.0,536415,21501,4.65,632144.04
+South,Physical Store,Q2,Fashion & Lifestyle,138805.0,1150403,29793,4.82,464596.88
+South,Physical Store,Q2,Sports & Fitness,71910.0,722182,37797,1.94,235154.67
+South,Physical Store,Q3,Electronics,139538.0,956542,26856,4.38,340979.91
+South,Physical Store,Q3,Home & Kitchen,127994.0,770413,25261,4.04,565993.44
+South,Physical Store,Q3,Beauty & Personal Care,61406.0,906951,38322,3.43,280617.59
+South,Physical Store,Q3,Fashion & Lifestyle,118116.0,980412,55576,1.54,484421.63
+South,Physical Store,Q3,Sports & Fitness,127014.0,1047945,53725,1.89,311048.01
+South,Physical Store,Q4,Electronics,155330.0,1395616,60440,5.85,357354.06
+South,Physical Store,Q4,Home & Kitchen,63845.0,1090016,55788,4.25,293841.88
+South,Physical Store,Q4,Beauty & Personal Care,95071.0,1420538,51758,2.84,328637.1
+South,Physical Store,Q4,Fashion & Lifestyle,129817.0,996025,21413,2.46,315657.57
+South,Physical Store,Q4,Sports & Fitness,129777.0,1213884,57958,1.64,605892.82
+South,E-commerce,Q1,Electronics,93449.0,1224056,36113,4.11,445051.32
+South,E-commerce,Q1,Home & Kitchen,98816.0,521215,17468,4.28,289812.3
+South,E-commerce,Q1,Beauty & Personal Care,114437.0,1399924,66982,1.84,527176.94
+South,E-commerce,Q1,Fashion & Lifestyle,67614.0,815076,48064,3.05,302739.66
+South,E-commerce,Q1,Sports & Fitness,85313.0,1264201,46359,3.76,218726.07
+South,E-commerce,Q2,Electronics,77707.0,1457803,77203,4.09,332467.84
+South,E-commerce,Q2,Home & Kitchen,99009.0,1360899,30277,4.27,217508.01
+South,E-commerce,Q2,Beauty & Personal Care,143004.0,1031413,37270,4.23,510933.08
+South,E-commerce,Q2,Fashion & Lifestyle,124537.0,530354,14292,4.56,324067.73
+South,E-commerce,Q2,Sports & Fitness,57553.0,761609,16239,1.68,177328.0
+South,E-commerce,Q3,Electronics,76097.0,787286,27345,3.12,242812.35
+South,E-commerce,Q3,Home & Kitchen,66236.0,1214263,25769,2.8,250513.21
+South,E-commerce,Q3,Beauty & Personal Care,73276.0,1412765,55074,3.43,222227.57
+South,E-commerce,Q3,Fashion & Lifestyle,83903.0,1285342,68424,1.82,174715.54
+South,E-commerce,Q3,Sports & Fitness,56507.0,670820,36326,4.23,149345.5
+South,E-commerce,Q4,Electronics,98765.0,1473533,42738,2.67,390592.07
+South,E-commerce,Q4,Home & Kitchen,117276.0,521026,28440,4.88,474568.97
+South,E-commerce,Q4,Beauty & Personal Care,112140.0,1455793,36820,2.11,493706.94
+South,E-commerce,Q4,Fashion & Lifestyle,79329.0,764650,33899,4.8,328280.97
+South,E-commerce,Q4,Sports & Fitness,142978.0,1173962,36410,4.63,651230.26
+East,Physical Store,Q1,Electronics,110161.0,764239,21955,2.56,392383.97
+East,Physical Store,Q1,Home & Kitchen,131737.0,916444,39754,1.53,658459.48
+East,Physical Store,Q1,Beauty & Personal Care,99051.0,1088730,49965,3.63,286795.02
+East,Physical Store,Q1,Fashion & Lifestyle,64169.0,1005139,22669,4.96,251656.97
+East,Physical Store,Q1,Sports & Fitness,86291.0,773832,35785,4.83,341229.08
+East,Physical Store,Q2,Electronics,74688.0,657212,26743,2.34,162097.16
+East,Physical Store,Q2,Home & Kitchen,128647.0,923727,42880,3.88,535666.76
+East,Physical Store,Q2,Beauty & Personal Care,135904.0,1021533,61188,2.41,442462.25
+East,Physical Store,Q2,Fashion & Lifestyle,100891.0,1272519,27248,3.98,374923.8
+East,Physical Store,Q2,Sports & Fitness,74892.0,859836,42185,2.28,269903.68
+East,Physical Store,Q3,Electronics,112355.0,1450561,83591,2.75,325895.17
+East,Physical Store,Q3,Home & Kitchen,72280.0,1381473,63968,3.45,208264.13
+East,Physical Store,Q3,Beauty & Personal Care,111706.0,634159,31477,4.04,410753.57
+East,Physical Store,Q3,Fashion & Lifestyle,73995.0,1492921,70448,2.67,167813.22
+East,Physical Store,Q3,Sports & Fitness,96567.0,734176,36538,2.57,421444.59
+East,Physical Store,Q4,Electronics,93426.0,889737,27067,2.53,425428.53
+East,Physical Store,Q4,Home & Kitchen,111674.0,556284,30404,3.54,539709.6
+East,Physical Store,Q4,Beauty & Personal Care,59334.0,995158,55307,3.25,273084.34
+East,Physical Store,Q4,Fashion & Lifestyle,70018.2,738902,23595,1.27,319473.39
+East,Physical Store,Q4,Sports & Fitness,68004.0,710026,23932,4.96,318159.12
+East,E-commerce,Q1,Electronics,109974.0,650181,21231,4.0,476937.83
+East,E-commerce,Q1,Home & Kitchen,113908.0,848787,38400,2.12,444639.53
+East,E-commerce,Q1,Beauty & Personal Care,50617.0,974012,30137,4.16,126836.95
+East,E-commerce,Q1,Fashion & Lifestyle,70766.0,1013358,52095,4.23,169004.63
+East,E-commerce,Q1,Sports & Fitness,106847.0,1164259,43282,3.0,366720.36
+East,E-commerce,Q2,Electronics,50611.0,539557,22311,4.06,245473.77
+East,E-commerce,Q2,Home & Kitchen,92233.0,1293612,68987,2.17,371721.53
+East,E-commerce,Q2,Beauty & Personal Care,132141.0,1269238,38017,3.93,400790.17
+East,E-commerce,Q2,Fashion & Lifestyle,66899.0,607697,21477,3.56,167318.45
+East,E-commerce,Q2,Sports & Fitness,55992.0,812687,47085,3.1,199379.97
+East,E-commerce,Q3,Electronics,118697.0,854245,31903,3.9,285035.21
+East,E-commerce,Q3,Home & Kitchen,114248.0,876701,43839,2.08,539328.56
+East,E-commerce,Q3,Beauty & Personal Care,102873.0,520053,15152,4.05,246238.6
+East,E-commerce,Q3,Fashion & Lifestyle,146216.0,522977,22795,2.09,453236.61
+East,E-commerce,Q3,Sports & Fitness,135267.0,1330605,28600,4.57,374333.5
+East,E-commerce,Q4,Electronics,120088.0,1153404,25309,4.98,478659.93
+East,E-commerce,Q4,Home & Kitchen,135664.0,1376735,28621,3.91,440952.32
+East,E-commerce,Q4,Beauty & Personal Care,99840.0,629598,26374,3.16,245544.63
+East,E-commerce,Q4,Fashion & Lifestyle,98784.0,853335,38581,1.92,393653.62
+East,E-commerce,Q4,Sports & Fitness,136832.0,1045583,32203,3.62,329969.08
+West,Physical Store,Q1,Electronics,63751.0,1036435,50526,1.91,149307.24
+West,Physical Store,Q1,Home & Kitchen,63928.0,1021917,28558,2.2,178294.03
+West,Physical Store,Q1,Beauty & Personal Care,118569.0,711469,24415,2.93,294184.01
+West,Physical Store,Q1,Fashion & Lifestyle,121845.0,1020465,57568,3.91,419389.49
+West,Physical Store,Q1,Sports & Fitness,80737.0,502871,10313,1.81,188221.58
+West,Physical Store,Q2,Electronics,125255.0,1201520,47777,4.82,543428.67
+West,Physical Store,Q2,Home & Kitchen,59836.0,1258711,61605,4.67,235335.61
+West,Physical Store,Q2,Beauty & Personal Care,109867.0,810401,24769,1.68,487758.42
+West,Physical Store,Q2,Fashion & Lifestyle,55170.0,1393647,44070,4.31,162096.15
+West,Physical Store,Q2,Sports & Fitness,146801.0,621531,14792,4.15,313811.69
+West,Physical Store,Q3,Electronics,68139.0,1195578,54862,2.65,319134.65
+West,Physical Store,Q3,Home & Kitchen,131501.0,781342,43082,1.83,584507.86
+West,Physical Store,Q3,Beauty & Personal Care,73969.0,619361,22316,4.87,208259.67
+West,Physical Store,Q3,Fashion & Lifestyle,100556.0,1223415,66097,4.3,396848.22
+West,Physical Store,Q3,Sports & Fitness,71860.0,618548,15649,4.04,355326.68
+West,Physical Store,Q4,Electronics,70892.0,608751,22305,3.57,312406.47
+West,Physical Store,Q4,Home & Kitchen,138918.0,959447,26145,2.83,427283.53
+West,Physical Store,Q4,Beauty & Personal Care,53777.0,1404476,66542,4.43,264600.79
+West,Physical Store,Q4,Fashion & Lifestyle,67125.0,1006545,57187,1.9,217072.37
+West,Physical Store,Q4,Sports & Fitness,56025.0,566412,17255,2.6,230470.3
+West,E-commerce,Q1,Electronics,138857.0,1050311,53251,3.52,513081.71
+West,E-commerce,Q1,Home & Kitchen,137797.0,1415557,47466,3.33,565207.54
+West,E-commerce,Q1,Beauty & Personal Care,62483.0,953873,44325,2.37,189776.4
+West,E-commerce,Q1,Fashion & Lifestyle,138643.0,1172561,41502,4.44,509517.56
+West,E-commerce,Q1,Sports & Fitness,130335.0,557216,11403,4.77,458349.45
+West,E-commerce,Q2,Electronics,111510.0,1393251,55497,2.08,474395.88
+West,E-commerce,Q2,Home & Kitchen,92026.0,752593,25013,2.47,324004.04
+West,E-commerce,Q2,Beauty & Personal Care,122154.0,1174567,41280,4.36,273196.42
+West,E-commerce,Q2,Fashion & Lifestyle,108220.0,1340183,57522,1.81,378268.77
+West,E-commerce,Q2,Sports & Fitness,91426.0,624473,36985,4.11,187725.68
+West,E-commerce,Q3,Electronics,102879.0,932368,19983,3.42,460664.0
+West,E-commerce,Q3,Home & Kitchen,129194.0,1149137,52287,4.62,476337.98
+West,E-commerce,Q3,Beauty & Personal Care,135799.0,1204091,46054,2.69,607827.22
+West,E-commerce,Q3,Fashion & Lifestyle,79218.0,1385331,52889,3.46,305723.96
+West,E-commerce,Q3,Sports & Fitness,112014.0,1251470,57926,4.01,262344.64
+West,E-commerce,Q4,Electronics,149525.0,1190917,34381,2.69,671315.16
+West,E-commerce,Q4,Home & Kitchen,88270.0,1074295,43916,3.96,188662.5
+West,E-commerce,Q4,Beauty & Personal Care,71516.0,1016342,26036,4.01,297841.06
+West,E-commerce,Q4,Fashion & Lifestyle,64019.0,766641,34064,2.16,306692.54
+West,E-commerce,Q4,Sports & Fitness,101497.0,726061,27794,4.23,421249.47

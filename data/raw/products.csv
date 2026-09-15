@@ -1,0 +1,17 @@
+product_id,product_name,category,base_price
+P001,Smartphone,Electronics,30000
+P002,Laptop,Electronics,60000
+P003,Wireless Earbuds,Electronics,5000
+P004,Smartwatch,Electronics,12000
+P005,Air Fryer,Home & Kitchen,7000
+P006,Vacuum Cleaner,Home & Kitchen,10000
+P007,Cookware Set,Home & Kitchen,6000
+P008,Skincare Kit,Beauty & Personal Care,3500
+P009,Hair Dryer,Beauty & Personal Care,3000
+P010,Grooming Kit,Beauty & Personal Care,4000
+P011,Sneakers,Fashion & Lifestyle,4500
+P012,Backpack,Fashion & Lifestyle,2500
+P013,Casual Jacket,Fashion & Lifestyle,5000
+P014,Yoga Mat,Sports & Fitness,1500
+P015,Running Shoes,Sports & Fitness,4000
+P016,Fitness Band,Sports & Fitness,3500
